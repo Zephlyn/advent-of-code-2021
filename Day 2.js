@@ -1,8 +1,6 @@
 var fs = require("fs");
 var input = fs.readFileSync("./Day 2/input.txt").toString().split("\n").map((x) => String(x));
-var currentIndex;
-var horizontal = 0;
-var depth = 0;
+var currentIndex, horizontal, depth;
 
 
 for(var i = 0; i < input.length; i++){
