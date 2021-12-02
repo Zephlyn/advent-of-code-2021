@@ -4,7 +4,17 @@
 Advent of Code is a program where you are provided 2 puzzles that you must solve by writing a program. Typically the puzzles take around 10-20 minutes per day. You can also choose to compete with other people.
 
 ### Competitions
-I am currently competing with other Blade & Sorcery modders, which you can see [here](https://adventofcode.com/2021/leaderboard/private/view/1610467)
+I am currently competing with other Blade & Sorcery modders, which you can see below:
+```
+1) 16 *  Quentin Bateux
+2) 14 *  Wully616
+3) 11 *  mtruitt1
+4)  9 *  Zephlyn
+5)  6 *  Dank Darko
+6)  0 *  Neeshka76
+7)  0 *  Talion Solaris
+8)  0 *  Noah Zoog
+```
 
 ### Days I have completed
 So far, it's just December 1st. Not much yet, hopefully this website will look a lot better by Christmas. If you would like to view it on github, you can do so [here](https://github.com/Zephlyn/advent-of-code-2021/tree/main/Day%201)
