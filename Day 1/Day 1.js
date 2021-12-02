@@ -1,5 +1,5 @@
 var fs = require("fs");
-var numbers = fs.readFileSync("./input.txt").toString().split("\n").map((x) => parseInt(x));
+var numbers = fs.readFileSync("./Day 1/input.txt").toString().split("\n").map((x) => parseInt(x));
 var totalDepthIncreases = 0;
 var totalSums = 0;
 
