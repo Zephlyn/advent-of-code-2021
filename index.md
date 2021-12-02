@@ -9,7 +9,7 @@ I am currently competing with other Blade & Sorcery modders, which you can see [
 ### Days I have completed
 So far, it's just December 1st. Not much yet, hopefully this website will look a lot better by Christmas. If you would like to view it on github, you can do so [here](https://github.com/Zephlyn/advent-of-code-2021/tree/main/Day%201)
 
-### The scenario
+# The scenario
 You're minding your own business on a ship at sea when the overboard alarm goes off! You rush to see if you can help. Apparently, one of the Elves tripped and accidentally sent the sleigh keys flying into the ocean!
 
 Before you know it, you're inside a submarine the Elves keep ready for situations like this. It's covered in Christmas lights (because of course it is), and it even has an experimental antenna that should be able to track the keys if you can boost its signal strength high enough.
@@ -51,7 +51,7 @@ In this example, there are 7 measurements that are larger than the previous meas
 How many measurements are larger than the previous measurement?
 
 My answer to the puzzle was `1233`.
-# Part Two
+### Part Two
 
 Considering every single measurement isn't as useful as you expected: there's just too much noise in the data.
 
