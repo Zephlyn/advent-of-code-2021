@@ -1,6 +1,11 @@
 ## Advent of Code 2021 - Day 2
 I assume you already know what this is. If you don't, you shuold read my [first post](https://zephlyn.github.io/advent-of-code-2021/) about this.
 
+### Current Day Posts (updated 12/2/21)
+[Day 1](https://zephlyn.github.io/advent-of-code-2021/) 
+
+[Day 2](https://zephlyn.github.io/advent-of-code-2021/day2) <-- you're here 
+
 ### Competitions
 Current leaderboard:
 ```
@@ -82,7 +87,7 @@ Using this new interpretation of the commands, calculate the horizontal position
 
 My puzzle answer was `2134882034`.
 
-### Code for Day 2 [view on github](https://github.com/Zephlyn/advent-of-code-2021/blob/main/Day%202/Day%202.js)
+### Code for Day 2 ([view on github](https://github.com/Zephlyn/advent-of-code-2021/blob/main/Day%202/Day%202.js))
 ```js
 var fs = require("fs");
 var input = fs.readFileSync("./Day 2/input.txt", { encoding: "utf-8" }).split("\n").filter((x) => Boolean(x)).map((x) => {
