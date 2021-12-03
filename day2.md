@@ -1,7 +1,5 @@
-## Advent of Code 2021
-
-### What is it?
-Advent of Code is a program where you are provided 2 puzzles that you must solve by writing a program. Typically the puzzles take around 10-20 minutes per day. You can also choose to compete with other people.
+## Advent of Code 2021 - Day 2
+I assume you already know what this is. If you don't, you shuold read my [first post](https://zephlyn.github.io/advent-of-code-2021/) about this.
 
 ### Competitions
 Current leaderboard:
